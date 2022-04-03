@@ -1,0 +1,125 @@
+.banner-form {
+    background: white;
+    max-width: 450px;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.sign-btn {
+    width: 100%;
+}
+
+.banner-1 {
+    background-image: url('../images/audit2.PNG') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-1 h4 {
+    color: white;
+}
+
+.download-area {
+    padding-top: 50px;
+}
+
+.banner-2 {
+    background-image: url('../images/audit.PNG') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-3 {
+    background-image: url('../images/banking-3.png') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-3 h3 {
+    color: white;
+}
+
+.wealth h1 {
+    color: white;
+}
+
+.wealth h2 {
+    color: white;
+}
+
+.why-work p {
+    font-size: 17px;
+}
+
+.login-area .login-info {
+    width: 400px;
+    margin: 0 auto;
+}
+
+@media (max-width: 480px) {
+    .login-area .login-info {
+        width: 300px !important;
+    }
+
+    .logo-white {
+        width: 200px !important;
+        height: 80px !important;
+    }
+
+    .logo-black {
+        width: 200px !important;
+        height: 80px !important;
+    }
+}
+
+.security-area {
+    border-bottom: 2px solid #FF0000;
+}
+
+.security-area .about-security {
+    border-right: 2px solid #FF0000;
+}
+
+@media (max-width:800px) {
+    .security-area .about-security {
+        border-bottom: 2px solid #FF0000;
+        border-right: 2px solid white;
+    }
+
+
+}
+
+.security-area .security {
+    padding: 30px;
+}
+
+.security-icons {
+    font-size: 40px !important;
+    color: #FF0000;
+}
+
+.btn-learn {
+    color: #FF0000 !important;
+    background-color: white !important;
+    border-radius: 0px !important;
+    border: 1px solid #FF0000 !important;
+}
+
+.btn-learn:hover {
+    color: white !important;
+    background-color: #31708f !important;
+}
+
+.fraud-area {
+    padding: 30px 20px;
+}
+
+.security-list li {
+    font-size: 15px;
+}
